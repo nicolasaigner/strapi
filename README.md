@@ -43,6 +43,8 @@ Strapi is a free and open-source headless CMS delivering your content anywhere y
 
 ## Getting Started
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6505e17a0e1a4487a0745feedc3fb922)](https://app.codacy.com/gh/nicolasaigner/strapi?utm_source=github.com&utm_medium=referral&utm_content=nicolasaigner/strapi&utm_campaign=Badge_Grade)
+
 <a href="https://docs.strapi.io/developer-docs/latest/getting-started/quick-start.html" target="_blank">Read the Getting Started tutorial</a> or follow the steps below:
 
 ### ⏳ Installation
